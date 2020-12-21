@@ -1,0 +1,5 @@
+/node_modules
+../houses_api/node_modules
+../techs_api/node_modules
+../users_api/node_modules
+../repositoires_api/node_modules
