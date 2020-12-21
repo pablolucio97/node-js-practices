@@ -2,8 +2,6 @@ import express, {Request, Response} from 'express'
 import nodemailer from 'nodemailer'
 import cors from 'cors'
 
-const test = require('./')
-
 const app = express()
 
 app.use(express.json())
